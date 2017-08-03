@@ -1,0 +1,1 @@
+@fileList.exe path1 path2
